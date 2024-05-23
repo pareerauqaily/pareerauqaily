@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pareerauqaily
+- 👀 I’m interested in Information Systems & Emerging Technologies
+- 🌱 I’m currently learning Java, Python, R & SQL
+- 📫 How to reach me puqaily@andrew.cmu.edu 
